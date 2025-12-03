@@ -1,0 +1,2 @@
+# Hybrid-ML-Classification-of-Beverage-Sales-Data-Machine-Learning-COMP-5011-FA
+This project applies unsupervised clustering (MiniBatchKMeans) and supervised classification (Random Forest, Linear SVM) on a 10% stratified sample of 0.9M from 8.9M synthetic beverage sales dataset. Clustering finds customer segments, and classification predicts new data membership, showing insights on discounts, seasonality, and buying patterns.
